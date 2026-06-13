@@ -144,7 +144,7 @@ ___
 
 <div align="center">
 
-  UPDATES LATER  ⠀.    ⠀TAKE THIS SHIT-ILY MADE REPO FOR NOW
+  UPDATES LATER  ⠀.    ⠀OR WHENEVER I FEEL LIKE IT LOL
 
 </div>
 
