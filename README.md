@@ -70,6 +70,8 @@ DO NOT FEEL DISCOURAGED TO SIT BY ME IN PONY TOWN IF I AM WITH FRIENDS .ㅤ  I A
 
 <p align="center">
 <img width="250" height="182" alt="Image" src="https://github.com/user-attachments/assets/a540c6e0-fb31-4058-a520-aae850d3b2e7" />
+<p align="center">
+    ^ this is a zachary (say hi)
 </p>
     <p align="center">
 ㅤ
