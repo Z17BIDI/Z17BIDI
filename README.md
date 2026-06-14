@@ -1,4 +1,6 @@
 <div align="center">
+    <img width="250" height="40" alt="Image" src="https://github.com/user-attachments/assets/5d3521d7-6e4b-4b6d-b89d-d9db0638db4c" />
+ㅤㅤ
     
 ![I SEE YOU](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FZ17BIDI&label=SHADOWS&labelColor=%23000000&countColor=%23d9e3f0)
     
@@ -180,8 +182,13 @@ ___
 
 <div align="center">
 <img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/3c990feb-12fb-42a1-b50b-ae504bf03550" />
-</div>
-</div>
+    <div align="center">
+        <p align="center">
+
+<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/38922f53-eadc-4f80-8da9-7b85d9589b8e" />
+<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/6e6a7f9b-2edc-4225-83be-f3ea7b73aa6a" />
+<img width="150" height="20" alt="Image" src="https://github.com/user-attachments/assets/c67c027f-8742-4e39-affd-0ad3d83fd3bd" />
+</p>
 
 <p align="center">
 ㅤ
